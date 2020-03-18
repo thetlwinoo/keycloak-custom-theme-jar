@@ -1,0 +1,8 @@
+{
+  "themes": [
+    {
+      "name": "vertical",
+      "types": ["login"]
+    }
+  ]
+}
